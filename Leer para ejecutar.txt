@@ -1,0 +1,17 @@
+comandos para poder utilizar la app
+En el directorio curso-sockets
+
+$ npm init //crea el archivo packages.json
+//completar datos...
+...
+
+//instalar dependencias
+
+
+npm install --express --save
+npm install --socket.io --save
+npm install --nodemon --save-dev // herramienta de desarrollo
+
+//iniciamos el servidor
+npm start
+
